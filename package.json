@@ -1,0 +1,19 @@
+{
+  "name": "nekoapi",
+  "version": "1.0.0",
+  "description": "The simple script to use Api Neko without encode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranVinh-13/NekoApi.git"
+  },
+  "author": "Tran Vinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranVinh-13/NekoApi/issues"
+  },
+  "homepage": "https://github.com/TranVinh-13/NekoApi#readme"
+}
